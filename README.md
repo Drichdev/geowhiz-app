@@ -12,7 +12,7 @@ GeoQuiz is a simple and interactive Flutter mobile application that helps users 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 To run this project locally, follow the steps below:
 
